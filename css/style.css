@@ -29,7 +29,7 @@ body {
 a,
 a.visited {
     color: inherit;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .pdf-relative-link-path {
